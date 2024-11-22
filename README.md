@@ -34,7 +34,7 @@ To run this project, you will need to add the following environment variables to
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/your-username/practical-management-system.git  
+  git clone https://github.com/chaudhariumesh051/Pratical-Management-System.git  
   cd practical-management-system  
 ```
 ```bash
