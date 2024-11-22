@@ -40,4 +40,9 @@ router.post("/createPractical", createPractical, isTeacher);
 router.get("/practicals/get", getAllPracticals);
 router.post("/practicals/enroll", enrollStudentInPractical);
 
+router.get("/",(req,res)=>{
+  res.json({message:"Welcome To Practical Managment System"});
+});
+
+
 export default router;
